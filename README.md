@@ -1,13 +1,13 @@
-# Dream Weaver
+# Altered State
 
 A private, on-device companion for lucid dreamers, astral projectors, and reality shifters.
 
-*Dream Weaver is a mobile app that helps you record what happens at night, track your practice, and see your patterns over time.*
+*Altered State is a mobile app that helps you record what happens at night, track your practice, and see your patterns over time.*
 ---
 
 ## What it does
 
-Dream Weaver gives you four connected spaces for your practice:
+Altered State gives you four connected spaces for your practice:
 
 **The Journal** — Log dreams, lucid experiences, meditations and astral projections the moment you wake. Tag entries (people, places, themes, emotions) and export polished PDFs. Use the Journal type to log your daily thoughts or track notes, transforming the app into a comprehensive spiritual diary.
 
@@ -32,7 +32,7 @@ Dream Weaver gives you four connected spaces for your practice:
 
 ## Privacy
 
-Dream Weaver is local-only by design.
+Altered State is local-only by design.
 
 - No accounts, no sign-ups
 - No cloud sync, no servers
