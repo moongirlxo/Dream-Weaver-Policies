@@ -1,14 +1,14 @@
 ## Privacy Policy
-Dream Weaver
+Altered State
 
 **Last updated:** April 29, 2026
 
 ## Overview:
-Dream Weaver is a personal journal and tracker for dreams, astral projection, lucid dreaming, and reality shifting. We respect your privacy and have built Dream Weaver to keep your personal practice exactly that — personal.
+Altered State is a personal journal and tracker for dreams, astral projection, lucid dreaming, and reality shifting. We respect your privacy and have built Altered State to keep your personal practice exactly that — personal.
 
 ### Data We Collect:
 We collect **nothing.**
-Dream Weaver is a local-first application. All data you create — including dream entries, attempt logs, scripts, wishlist items, and progress statistics — is stored exclusively on your device. We do not have servers that receive, process, or store your personal content. If you choose to back up your data, it is stored as a .json file right on your phone.
+Altered State is a local-first application. All data you create — including dream entries, attempt logs, scripts, wishlist items, and progress statistics — is stored exclusively on your device. We do not have servers that receive, process, or store your personal content. If you choose to back up your data, it is stored as a .json file right on your phone.
 
 ### Information You Provide:
 The following information stays on your device only:
@@ -21,7 +21,7 @@ The following information stays on your device only:
 * Optional name set in profile
 
 ### Permissions:
-Dream Weaver may request the following permissions on your device:
+Altered State may request the following permissions on your device:
 
 * Biometric authentication (Face ID / Touch ID / Fingerprint): Used only to unlock the app when privacy mode is enabled. Authentication happens locally on your device.
 * File system access: Used only when you choose to export or import a backup file.
@@ -30,23 +30,23 @@ Dream Weaver may request the following permissions on your device:
 We **do not** access these unless you actively use the related feature.
 
 ### Sharing Features: 
-When you choose to share content (e.g. a dream entry share card or PDF export), the data is only sent to the app or service you select (such as Messages, Discord, Instagram, etc.). Dream Weaver does not transmit this content anywhere on its own.
+When you choose to share content (e.g. a dream entry share card or PDF export), the data is only sent to the app or service you select (such as Messages, Discord, Instagram, etc.). Altered State does not transmit this content anywhere on its own.
 
 ### Backups:
 Backup files are created and saved by you locally. Where you store these backups (cloud drives, email, etc.) is entirely your choice and governed by those services' privacy policies.
 
 ### Children's Privacy:
-Dream Weaver is not directed at children under 13. We do not knowingly collect data from anyone, regardless of age.
+Altered State is not directed at children under 13. We do not knowingly collect data from anyone, regardless of age.
 
 ### Third-Party Services:
-Dream Weaver does not integrate with third-party analytics, advertising networks, or tracking services. We do not use cookies or any tracking technology.
+Altered State does not integrate with third-party analytics, advertising networks, or tracking services. We do not use cookies or any tracking technology.
 
 ### Changes to This Policy:
 We may update this privacy policy as the app evolves. Significant changes will be reflected in app updates and on the website. The "Last updated" date at the top will indicate the most recent revision.
 
 ## Contact
-For questions about this privacy policy or Dream Weaver:
+For questions about this privacy policy or Altered State:
 📧 [n.uva@icloud.com]
 🌙 Discord community: [https://discord.gg/metQnYb6wv]
 
-*Dream Weaver is created and maintained by moongirlxo. Your dreams stay yours.*
+*Altered State is created and maintained by moongirlxo. Your dreams stay yours.*
